@@ -1,1 +1,2 @@
-This folder contains the R Markdown code and the data files used in this project.
+This folder contains the R Markdown code, HTML render, and the data file used in this project.
+This code models the data for India but can be used for other countries as well after subsetting the data for the required country,
