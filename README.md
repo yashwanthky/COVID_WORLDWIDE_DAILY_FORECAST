@@ -10,7 +10,7 @@ The time-series data was used in this project to model and forecast the total # 
 
 ## Data
 
-While the data was provided as part of the Kaggle competition, the original data source is from the John Hopkins database. The key columns in the dataset include the following information. 
+While the data was provided as part of the Kaggle competition, the original data source is from the John Hopkins database. The key columns in the dataset consists of the following information. 
 •	Province and Country – To identify the country, and in a few cases the province
 •	Date – Daily date for when the observation was recorded
 •	Confirmed Cases and Fatalities – Total confirmed cases and fatalities on that date
